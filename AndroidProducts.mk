@@ -6,9 +6,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_raphael.mk
-
+    $(LOCAL_DIR)/twrp_raphael.mk
 COMMON_LUNCH_CHOICES := \
-    omni_raphael-user \
-    omni_raphael-userdebug \
-    omni_raphael-eng
+    twrp_raphael-user \
+    twrp_raphael-userdebug \
+    twrp_raphael-eng
